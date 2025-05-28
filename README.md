@@ -31,8 +31,7 @@
 ## 💼 Proyectos
 
 ### 📁 Sistema de Gestión de Legajos de Docentes
-> Desarrollo en Django de un sistema para la administración de docentes, documentos y notificaciones inteligentes.
-> Desarrollo en Django de un sistema para la gestión de asistencias, cuotas, notificaciones entre otros para una casa de estudios
+> Desarrollo en Django de un sistema para la administración de docentes, documentos y notificaciones inteligentes y de un sistema para la gestión de asistencias, cuotas, notificaciones entre otros para una casa de estudios
 
 **Características:**
 - Gestión de docentes y sus documentos (con vencimientos)
