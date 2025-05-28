@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Sosa — Desarrollador en formación</h1>
+<h1 align="center">👨‍💻 Iván Sosa — Desarrollador en formación</h1>
 
 <p align="center">
   Apasionado por el desarrollo web, los sistemas bien estructurados y la construcción de soluciones funcionales y elegantes.<br>
