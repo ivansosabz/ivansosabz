@@ -41,7 +41,7 @@
 
 Si te interesa colaborar o estás trabajando en algo interesante:
 
-- ✉️ [ivnasosabz@gmail.com]
+- ✉️ Correo: ivnasosabz@gmail.com
 - 📌 GitHub: [github.com/ivansosabz](https://github.com/ivansosabz)
 
 ---
