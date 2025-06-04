@@ -42,7 +42,7 @@
 Si te interesa colaborar o estás trabajando en algo interesante:
 
 - ✉️ Correo: ivansosabz@gmail.com
-- 📌 Instagram: ivansosabz
+- 📌 Instagram: [ivansosabz](https://www.instagram.com/ivansosabz/)
 
 ---
 
