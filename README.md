@@ -72,7 +72,7 @@ Colaboré directamente con el equipo docente, apoyando a estudiantes y cumpliend
 
 | Título | Institución | Período |
 |--------|------------|---------|
-| Ingeniería en Sistemas Computacionales | UNCA – Facultad de Ciencias y Tecnología | 2022 – Presente *(Último año)* |
+| Ingeniería en Sistemas Informáticos | UNCA – Facultad de Ciencias y Tecnología | 2022 – Presente *(Último año)* |
 
 ---
 
